@@ -1,0 +1,15 @@
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task33\bin\Debug\net6.0\task33.exe
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task33\bin\Debug\net6.0\task33.deps.json
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task33\bin\Debug\net6.0\task33.runtimeconfig.json
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task33\bin\Debug\net6.0\task33.dll
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task33\bin\Debug\net6.0\task33.pdb
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task33\obj\Debug\net6.0\task33.csproj.AssemblyReference.cache
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task33\obj\Debug\net6.0\task33.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task33\obj\Debug\net6.0\task33.AssemblyInfoInputs.cache
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task33\obj\Debug\net6.0\task33.AssemblyInfo.cs
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task33\obj\Debug\net6.0\task33.csproj.CoreCompileInputs.cache
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task33\obj\Debug\net6.0\task33.dll
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task33\obj\Debug\net6.0\refint\task33.dll
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task33\obj\Debug\net6.0\task33.pdb
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task33\obj\Debug\net6.0\task33.genruntimeconfig.cache
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task33\obj\Debug\net6.0\ref\task33.dll
